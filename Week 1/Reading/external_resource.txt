@@ -1,1 +1,2 @@
-://www.khanacademy.org/computing/computer-science/algorithms/graph-representation/a/describing-graphs
+https://www.khanacademy.org/computing/computer-science/algorithms/graph-representation/a/describing-graphs
+https://www.cs.usfca.edu/~galles/visualization/DFS.html
