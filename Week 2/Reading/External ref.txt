@@ -1,0 +1,7 @@
+Visualizations
+http://www.cs.usfca.edu/~galles/visualization/TopoSortDFS.html
+http://www.cs.usfca.edu/~galles/visualization/TopoSortIndegree.html
+http://www.cs.usfca.edu/~galles/visualization/ConnectedComponent.html
+
+References
+[DPV] Sanjoy Dasgupta, Christos Papadimitriou, and Umesh Vazirani. Algorithms (1st Edition). McGraw-Hill Higher Education. 2008.
